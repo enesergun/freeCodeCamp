@@ -6,7 +6,7 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     - Basic HTML5                       (28/28) 
     - Basic CSS                         (44/44) 
     -Applied Visual Design              (52/52) 
-    -Applied Accessibility              (0/22)
+    -Applied Accessibility              (15/22)
     -Responsive Web Design Principles   (0/4)
     -CSS Flexbox                        (0/17)
     -CSS Grid                           (0/22)
