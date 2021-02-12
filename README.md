@@ -9,7 +9,7 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     -Applied Accessibility              (22/22)
     -Responsive Web Design Principles   (4/4)
     -CSS Flexbox                        (17/17)
-    -CSS Grid                           (0/22)
+    -CSS Grid                           (22/22)
     -Responsive Web Design Projects     ( 0/5)
     
     
