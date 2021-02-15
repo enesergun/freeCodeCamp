@@ -10,6 +10,6 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     -Responsive Web Design Principles   (4/4)
     -CSS Flexbox                        (17/17)
     -CSS Grid                           (22/22)
-    -Responsive Web Design Projects     ( 0/5)
+    -Responsive Web Design Projects     ( 5/5)
     
     
