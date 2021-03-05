@@ -14,7 +14,7 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     
     
  ## 2-) JavaScript Algorithms and Data Structures
-    - Basic JS                          (0/111)
+    - Basic JS                          (22/111)
     - ES6                               (0/31)
     - Regular Expressions               (0/33)
     - Debugging                         (0/12)
