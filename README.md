@@ -18,7 +18,7 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     - ES6                               (31/31)
     - Regular Expressions               (33/33)
     - Debugging                         (0/12)
-    - Basic Data Structures             (0/20)
+    - Basic Data Structures             (20/20)
     - Basic Algorithm Scripting         (0/16)
     - Object Oriented Programming       (0/26)
     - Functional Programming            (0/24)
