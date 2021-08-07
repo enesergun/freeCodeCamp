@@ -23,5 +23,5 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     - Object Oriented Programming       (26/26)
     - Functional Programming            (24/24)
     - Intermediate Algorithm Scripting  (21/21)
-    - JS Alg. & Data Str. Projects      (0/5)
+    - JS Alg. & Data Str. Projects      (5/5)
 
