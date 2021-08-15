@@ -24,4 +24,15 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     - Functional Programming            (24/24)
     - Intermediate Algorithm Scripting  (21/21)
     - JS Alg. & Data Str. Projects      (5/5)
+    
+
+ ## 3-) Front End Development Libraries
+    - Bootstrap (31/31)
+    - jQuery (18/18)
+    - SASS (0/9)
+    - React (0/47)
+    - Redux (0/17)
+    - React and Redux (0/10)
+    - Front End Development Libraries Projects (0/5)
+    
 
