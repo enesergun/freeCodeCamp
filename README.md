@@ -30,7 +30,7 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     - Bootstrap (31/31)
     - jQuery (18/18)
     - SASS (0/9)
-    - React (37/47)
+    - React (47/47)
     - Redux (0/17)
     - React and Redux (0/10)
     - Front End Development Libraries Projects (0/5)
