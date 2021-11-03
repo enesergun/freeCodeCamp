@@ -1,0 +1,1 @@
+[Random Quote Machine](https://codepen.io/enesergun/pen/WNEXgKG)
