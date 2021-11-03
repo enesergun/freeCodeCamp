@@ -32,7 +32,7 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     - SASS (0/9)
     - React (47/47)
     - Redux (17/17)
-    - React and Redux (0/10)
-    - Front End Development Libraries Projects (0/5)
+    - React and Redux (10/10)
+    - Front End Development Libraries Projects (1/5)
     
 
