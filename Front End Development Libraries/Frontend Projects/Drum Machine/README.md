@@ -1,0 +1,1 @@
+[Drum Machine-ıts have some bug. ı'll fix-](https://codepen.io/enesergun/pen/BadrYWa)
