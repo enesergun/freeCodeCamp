@@ -33,6 +33,6 @@ In this repo, I share the exercises I have done in freeCodeCamp to improve my HT
     - React (47/47)
     - Redux (17/17)
     - React and Redux (10/10)
-    - Front End Development Libraries Projects (1/5)
+    - Front End Development Libraries Projects (2/5)
     
 
